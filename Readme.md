@@ -75,14 +75,19 @@ The project was built using **semantic HTML5 and modern CSS layout techniques**.
 ---
 
 ## Project Structure
+
+```
 idr-assignment
 │
 ├── index.html
 ├── style.css
 ├── script.js
 │
-└── assets
-└── logo.png
+├── assets
+│   └── logo.png
+│
+└── README.md
+```
 
 # Author
 
