@@ -1,7 +1,7 @@
 # Institute of Digital Risk (IDR) – Website
 
 A modern, responsive website designed for the **Institute of Digital Risk (IDR)**.  
-This project focuses on building a strong brand identity and a clean digital experience that communicates the institute’s vision of advancing professionals in **digital, cyber, and AI risk management**.
+This project focuses on building a strong brand identity and delivering a clean, professional digital experience for **digital, cyber, and AI risk management**.
 
 ---
 
@@ -13,17 +13,17 @@ This project focuses on building a strong brand identity and a clean digital exp
 
 ## 🚀 Overview
 
-This website delivers a professional and accessible platform to showcase IDR’s mission, services, and ecosystem. It combines structured content, modern UI design, and responsive layout techniques to ensure a seamless user experience across devices.
+This website presents IDR’s mission, services, and ecosystem through a structured and accessible interface. It is designed with a focus on **clarity, responsiveness, and user experience** across all devices.
 
 ---
 
 ## 🎯 Project Highlights
 
-- Designed a clean and professional corporate UI  
-- Built a fully responsive layout for all screen sizes  
-- Implemented smooth scrolling and interactive elements  
-- Created a scalable brand identity and logo system  
-- Focused on accessibility and readability  
+- Clean and professional corporate UI  
+- Fully responsive design  
+- Smooth scrolling interactions  
+- Scalable brand identity  
+- Accessible and readable layout  
 
 ---
 
@@ -37,8 +37,8 @@ The IDR logo is based on a **cube-inspired geometric concept**, representing:
 
 ### Design Elements
 
-- **Orange Accent** – Innovation, energy, forward momentum  
-- **Black & White Base** – Clean, professional, high contrast  
+- **Orange Accent** – Innovation and forward momentum  
+- **Black & White Base** – Clean and professional identity  
 - **Modern Typography** – Minimal and credible  
 
 ### Logo Variants
@@ -46,22 +46,16 @@ The IDR logo is based on a **cube-inspired geometric concept**, representing:
 - Icon-only version  
 - Icon with full institute name  
 
-The logo is optimized for:
-- Favicons  
-- Mobile headers  
-- Scalable digital use  
-
 ---
 
 ## ✨ Features
 
-- Modern and responsive UI/UX  
-- Sticky navigation bar  
-- Smooth scrolling navigation  
-- Accessible color contrast  
+- Responsive UI/UX  
+- Sticky navigation  
+- Smooth scrolling  
 - Interactive hover states  
-- Animated hero section background  
-- Clean and structured layout  
+- Animated hero section  
+- Clean layout structure  
 
 ---
 
@@ -69,50 +63,31 @@ The logo is optimized for:
 
 ### 🏠 Hero Section
 - Headline: *Advancing the Future of Digital Risk*  
-- Clear value proposition  
 - Call-to-action buttons  
 
----
-
-### ℹ️ About IDR
-- Overview of the institute  
-- Academic and industry collaboration  
-
----
+### ℹ️ About
+- Overview of IDR  
+- Academic + industry collaboration  
 
 ### 🏢 Core Pillars
-
-- **Academy**  
-  Training programs and bootcamps  
-
-- **Innovation & Incubation**  
-  AI governance and digital risk models  
-
-- **Advisory Services**  
-  Framework implementation including:
-  - NIST  
-  - ISO 27001  
-  - NIS2  
-
----
+- **Academy** – Training programs  
+- **Innovation & Incubation** – AI & risk models  
+- **Advisory Services** – NIST, ISO 27001, NIS2  
 
 ### 🌐 Community
-- Students and early-career professionals  
-- Upskilling in cyber and digital risk  
+- Students and professionals  
+- Upskilling in cyber risk  
 
----
-
-### 📩 Contact / Registration
-- Simple form to capture user interest  
-- Clean and intuitive UI  
+### 📩 Contact
+- Simple registration form  
 
 ---
 
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](./screenshots/homepage.png) 
 
+<img src="./screenshots/homepage.png" width="100%" />
 
 ---
 
@@ -127,28 +102,33 @@ The logo is optimized for:
 ---
 
 ## 📂 Project Structure
-
-idr-website/
+IDR-Digital/
+│
 ├── index.html
 ├── style.css
 ├── script.js
+│
 ├── assets/
-│   └── logo.png
+│ └── logo.png
+│
 ├── screenshots/
-│   ├── homepage.png
-│   └── section.png
+│ ├── homepage.png
+│ └── section.png
+│
 └── README.md
 
 ---
 
 ## ⚙️ Setup & Usage
 
-1. Clone the repository
+### 1. Clone the repository
+git clone https://github.com/Adityakumar747/IDR-Digital.git
 
-git clone https://github.com/your-username/idr-website.git  
-cd idr-website  
+cd IDR-Digital
 
-2. Open `index.html` in your browser
+### 2. Open in browser
+
+Open `index.html` in your browser.
 
 ---
 
@@ -157,24 +137,21 @@ cd idr-website
 Contributions are welcome.
 
 - Fork the repository  
-- Create a new branch (feature/your-feature)  
-- Commit your changes  
-- Open a Pull Request  
+- Create a new branch  
+- Submit a pull request  
 
 ---
 
 ## 🐞 Feedback & Improvements
 
-If you find any issues or have suggestions:
-
-- Open an issue  
-- Provide clear details and steps to reproduce  
+- Open an issue for bugs  
+- Suggest improvements  
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+MIT License
 
 ---
 
@@ -187,6 +164,6 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 ## 👨‍💻 Author
 
 Aditya Kumar  
-Frontend Developer | Web Development Enthusiast  
+ 
 
 GitHub: https://github.com/Adityakumar747
