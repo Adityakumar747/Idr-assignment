@@ -113,8 +113,6 @@ The logo is optimized for:
 ### 🏠 Homepage
 ![Homepage](./screenshots/homepage.png)
 
-### 📅 Section View
-![Section](./screenshots/section.png)
 
 ---
 
